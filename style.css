@@ -150,3 +150,8 @@ input[type='number'] {
 .transactions li:hover .delete-btn {
   opacity: 1;
 }
+
+li{
+  display: flex;
+  align-items: center;
+}
